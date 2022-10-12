@@ -48,6 +48,6 @@
  - <a href="mailto:pablo_spector@hotmail.com">```pablo_spector@hotmail.com```</a>
 <br />
 <a href="https://www.linkedin.com/in/pablo-spector/">
- - <img align="left" alt="Sudnyesh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />LinkedIn
+ - LinkedIn <img align="left" alt="Sudnyesh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <br />
