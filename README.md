@@ -36,15 +36,14 @@
 </p>
 <br />
 
-**Last proyect**
-<a href="https://hardwarehotsales.vercel.app/">
-  <img align="left" alt="Sudnyesh's Github" width="22px" src="https://hardwarehotsales.vercel.app/static/media/micro50.77397f22edbb717b594d.png" />
-  ```Hardware Hot Sales```
-</a>
-<br />
+**Last proyect**  
+  -  <a href="https://hardwarehotsales.vercel.app/">Hardware Hot Sales</a>
 
-**Do you want to contact me?**
-<br />
- - <a href="mailto:pablo_spector@hotmail.com">```pablo_spector@hotmail.com```</a>
- - <a href="https://www.linkedin.com/in/pablo-spector/">LinkedIn<img align="left" alt="Sudnyesh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<br />
+
+**Visit**  
+ - <a href="https://hardwarehotsales.vercel.app/">My portfolio</a>  
+ - <a href="https://www.linkedin.com/in/pablo-spector/">LinkedIn</a>  
+ 
+
+**Do you want to contact me?**  
+ - <a href="mailto:pablo_spector@hotmail.com">pablo_spector@hotmail.com</a>
