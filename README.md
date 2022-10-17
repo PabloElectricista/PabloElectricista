@@ -30,7 +30,8 @@
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png" alt=github width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/heroku.png" alt=heroku width="60" height="60"/>
 </p>
-
+  
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PabloElectricista&show_icons=true&theme=dark" alt="PabloElectricista" /> 
 <br />
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=PabloElectricista&show_icons=true&theme=dark" alt="PabloElectricista" /> 
 </p>
