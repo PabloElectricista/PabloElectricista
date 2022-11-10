@@ -39,8 +39,8 @@
 <b>currently learning</b> <br>
 <p>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/github/explore/e65ef46ef3e7bc457c93622f6a89fe8d3fd131d5/topics/graphql/graphql.png" alt="graphql" width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" width="70" height="70"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/github/explore/7456fdff59816d37ef383a6c8f32a26ff7332db2/topics/django/django.png" alt="django" width="70" height="70"/>
+  <img style="margin: auto;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA3SMSaOb3jsmUPS6j2FfHbBeKvu495h8_Dw&usqp=CAU" alt="ts" width="70" height="70"/>
+  <img style="margin: auto;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQHanMYRCXgLAoL8OmV1gLCmkm84AbZngyXw&usqp=CAU" alt="nest" width="70" height="70"/>
   <img style="margin: auto;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8YPk4A5MH4t8fiaxLN6wmHL8JC8Cl9bKwlA&usqp=CAU" alt="nextjs" width="70" height="70"/>
   </p>
 
@@ -48,6 +48,8 @@
 <p>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" alt=arduino width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" alt=raspberry-pi width="70" height="70"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" width="70" height="70"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/github/explore/7456fdff59816d37ef383a6c8f32a26ff7332db2/topics/django/django.png" alt="django" width="70" height="70"/>
 </p>
 </div>
 <br />
