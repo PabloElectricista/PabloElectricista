@@ -38,7 +38,7 @@
 </p>
 <b>currently learning</b> <br>
 <p>
-  <img style="margin: auto;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlCjo0snKU_lDDewnE0aMYnU7nAudyEP9syw&usqp=CAU" alt="angular" width="60" height="60"/>
+  <img style="margin: auto;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlCjo0snKU_lDDewnE0aMYnU7nAudyEP9syw&usqp=CAU" alt="angular" width="70" height="70"/>
   <img style="margin: auto;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA3SMSaOb3jsmUPS6j2FfHbBeKvu495h8_Dw&usqp=CAU" alt="ts" width="70" height="70"/>
   <img style="margin: auto;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQHanMYRCXgLAoL8OmV1gLCmkm84AbZngyXw&usqp=CAU" alt="nest" width="70" height="70"/>
   <img style="margin: auto;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8YPk4A5MH4t8fiaxLN6wmHL8JC8Cl9bKwlA&usqp=CAU" alt="nextjs" width="70" height="70"/>
