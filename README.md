@@ -10,10 +10,11 @@ Turn your Figma design into an impressive website! As an experienced web develop
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>About me</b> <br>
 - <img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/boy-light-skin-tone.png" height= 15px width = 15px> I am Pablo Spector from Argentina.
-- 🚀 I’m currently finishing my course of fullstack developer in <a href="https://soyhenry.com/">```soyhenry.com```</a>
-- 🌱 I’m currently learning Python.
-- 🔭 I'm doing some projects to show soon.
-- 💬 Ask me if you want to hire me by <a href="mailto:pablo_spector@hotmail.com">```pablo_spector@hotmail.com```</a>.
+- 🚀 I studied ```fullstack developer``` in <a href="https://soyhenry.com/">soyhenry.com</a> 
+and i finished it last year
+- 🌱 I was developing a platform in a company for 7 months.
+- 🔭 I am currently helping young people who are doing their first practices, acting as ```SCRUM Master``` in <a href="https://idforideas.com/">ID for Ideas</a>
+- 💬 If you are interested in hiring me here is my <a href="mailto:pablo_spector@hotmail.com">email</a>.
 <br/>
 
 <div style="margin-lefth:30px;">
